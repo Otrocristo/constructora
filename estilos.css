@@ -52,7 +52,7 @@ body {
 /* ESTILOS DE LA PAGINA INICIO */
 
 .eslogan {
-    background-image: url("/img/imagenone.jpeg");
+    background-image: url("./img/imagenone.jpeg");
     width: auto;
     padding: 15%;
     text-align: center;
